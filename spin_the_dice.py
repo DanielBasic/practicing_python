@@ -29,3 +29,5 @@ while True:
     break
   else:
     print("Que tal tentar digitar: 'sim' ou 'não' \n")
+    
+close = input("press any key to close the program")
